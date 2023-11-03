@@ -9,4 +9,7 @@
 <h3>References</h3>
 <ol>
 <li><a href="https://materializecss.com/">Materlizecss for desiging</a></li>
+<li><a href="https://fontawesome.com/">Fontawesom for icon</a>: Shiva<script src="https://kit.fontawesome.com/e1be81b688.js"
+      crossorigin="anonymous"
+    ></script></li>
 </ol>
