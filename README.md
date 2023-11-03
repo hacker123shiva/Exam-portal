@@ -12,4 +12,8 @@
 <li><a href="https://fontawesome.com/">Fontawesom for icon</a>: Shiva<script src="https://kit.fontawesome.com/e1be81b688.js"
       crossorigin="anonymous"
     ></script></li>
+<li><a href="https://source.unsplash.com/1400x400/ai,Technology">Random Image generation</a></li>
 </ol>
+
+<h3>Tools and Environment</h3>
+<ol><li>Eclipse Ide: Java</li><li>Visual Studio Code Ide</li><li>JDK 17</li><li>Tomcat 9</li><li>AWS EC2 Deployment</li></ol>
