@@ -5,3 +5,8 @@
 <li>Muskan Garg: Backend, Database and  Frontend</li>
 <li>Shiva Srivastava: Backend, Database and Deployment</li>
 <li>Ritika Singh: Frontend and Deployment</li>
+
+<h3>References</h3>
+<ol>
+<li><a href="https://materializecss.com/">Materlizecss for desiging</a></li>
+</ol>
