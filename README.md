@@ -2,6 +2,6 @@
 <h2>Module1: Quiz Application</h2>
 <h2>Team Member</h2>
 <ul>
-<li>Muskan Garg: Backend and Frontend</li>
+<li>Muskan Garg: Backend, Database and  Frontend</li>
 <li>Shiva Srivastava: Backend, Database and Deployment</li>
 <li>Ritika Singh: Frontend and Deployment</li>
