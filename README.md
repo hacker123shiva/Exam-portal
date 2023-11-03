@@ -12,7 +12,9 @@
 <li><a href="https://fontawesome.com/">Fontawesom for icon</a>: Shiva<script src="https://kit.fontawesome.com/e1be81b688.js"
       crossorigin="anonymous"
     ></script></li>
-<li><a href="https://source.unsplash.com/1400x400/ai,Technology">Random Image generation</a></li>
+<li><a href="https://source.unsplash.com/1400x400/?Laptop,Technology">Unsplash Random Image</a></li>
+
+<li><a href="https://releases.jquery.com/">jQuery pulgin</a> <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script></li>
 </ol>
 
 <h3>Tools and Environment</h3>
