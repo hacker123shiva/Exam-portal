@@ -15,6 +15,9 @@
 <li><a href="https://source.unsplash.com/1400x400/?Laptop,Technology">Unsplash Random Image</a></li>
 
 <li><a href="https://releases.jquery.com/">jQuery pulgin</a> <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script></li>
+
+<li><a href="https://git-scm.com/book/en/v2"> Git documentation </a> </li>
+
 </ol>
 
 <h3>Tools and Environment</h3>
