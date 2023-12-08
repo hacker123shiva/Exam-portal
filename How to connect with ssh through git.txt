@@ -1,0 +1,48 @@
+How to connect with ssh through gitbash?
+=>chmod 400 student.pem
+=>ssh -i "student.pem" ubuntu@ec2-a8-xxx-25y-z9.us-east-2.compute.amazonaws.com
+
+Now switch to super user
+=>sudo su
+
+Update: 
+apt-get update
+
+Install java 17 on ubuntu aws
+=>apt install openjdk-17-jdk
+
+check version
+java -version  (for interpreter)
+root@ip-172-31-2-251:/home/ubuntu# javac -version
+javac 17.0.8.1
+
+javac -version (for compiler)
+root@ip-172-31-2-251:/home/ubuntu# javac -version
+javac 17.0.8.1
+
+
+Run jshell:
+jshell> System.out.println("shiva")
+shiva
+
+jshell> System.out.println(8*4)
+32
+
+jshell> /imports
+|    import java.io.*
+|    import java.math.*
+|    import java.net.*
+|    import java.nio.file.*
+|    import java.util.*
+|    import java.util.concurrent.*
+|    import java.util.function.*
+|    import java.util.prefs.*
+|    import java.util.regex.*
+|    import java.util.stream.*
+
+
+Installing tomcat8:
+apt-get install tomcat9
+
+
+
