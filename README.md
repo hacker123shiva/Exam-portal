@@ -5,6 +5,7 @@
 <li>Muskan Garg: Backend, Database and  Frontend</li>
 <li>Shiva Srivastava: Backend, Database and Deployment</li>
 <li>Ritika Singh: Frontend and Deployment</li>
+<h2>Hosted Website on AWS Link: <a href="http://shiva.globalskyline.live:9999/Exam-quiz-application/">http://shiva.globalskyline.live:9999/Exam-quiz-application/</a></h2>
 
 <h3>References</h3>
 <ol>
@@ -24,4 +25,8 @@
 <h3>Tools and Environment</h3>
 <ol><li>Eclipse Ide: Java</li><li>Visual Studio Code Ide</li><li>JDK 17</li><li>Tomcat 9</li><li>AWS EC2 Deployment</li>
 <li>Jstl taglib jar: jstl-1.2.jar</li>
+<li>AWS EC2: <a href="https://us-east-2.console.aws.amazon.com/ec2">https://us-east-2.console.aws.amazon.com/ec2</a></li>
+<li>Domain from Name.com: <a href="name.com" >name.com</a></li>
+<li>Putty for Console: <a href="https://www.putty.org/">https://www.putty.org</a></li>
+<li>Winscp for FTP: <a href="https://winscp.net/eng/download.php">https://winscp.net/eng/download.php</a></li>
 </ol>
